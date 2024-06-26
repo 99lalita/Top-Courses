@@ -1,5 +1,5 @@
 {
-  "name": "react-tailwind-css-starter-pack",
+  "name": "top-courses",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git"
+    "url": "https://github.com/99lalita/Top-Courses"
   },
-  "author": "Pranay Gupta",
+  "author": "Lalita Londhe",
   "bugs": {
-    "url": "https://github.com/thepranaygupta/react-tailwind-css-starter-pack/issues"
+    "url": "https://github.com/99lalita/Top-Courses"
   },
   "scripts": {
     "start": "react-scripts start",
